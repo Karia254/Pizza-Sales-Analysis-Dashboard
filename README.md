@@ -45,6 +45,38 @@ Here are some screenshots of the Power BI dashboard:
 1. **Interact with the Dashboard**: Use filters and slicers to explore specific time periods, pizza categories, or sizes.
 2. **Interpret the Data**: Refer to the KPIs and charts to gain insights into sales performance, customer preferences, and trends.
 
+## **Key Insights**
+Here are some actionable insights derived from the pizza sales data:
+
+1. **Peak Order Times**:
+   - **Insight**: Orders peak during lunch (12 PM - 2 PM) and dinner hours (6 PM - 8 PM).
+   - **Actionable Insight**: Focus marketing efforts and promotions during these peak hours to maximize sales.
+
+2. **Popular Pizza Categories**:
+   - **Insight**: The **Classic** and **Veggie** categories contribute the highest percentage of sales.
+   - **Actionable Insight**: Highlight these categories in promotions and ensure sufficient inventory to meet demand.
+
+3. **Preferred Pizza Sizes**:
+   - **Insight**: Medium and Large pizzas account for the majority of sales.
+   - **Actionable Insight**: Offer bundle deals or discounts on these sizes to drive higher revenue.
+
+4. **Top 5 Best-Selling Pizzas**:
+   - **Insight**: Specific pizzas like **Margherita** and **Pepperoni** consistently rank as top sellers.
+   - **Actionable Insight**: Use these pizzas as anchor products in combo deals or limited-time offers.
+
+5. **Bottom 5 Worst-Selling Pizzas**:
+   - **Insight**: Certain pizzas, such as **BBQ Chicken** and **Hawaiian**, have low sales.
+   - **Actionable Insight**: Consider revising recipes, offering discounts, or removing underperforming items from the menu.
+
+6. **Average Pizzas Per Order**:
+   - **Insight**: The average order includes 2-3 pizzas.
+   - **Actionable Insight**: Introduce family meal deals or bulk discounts to encourage larger orders.
+
+---
+
+## **Conclusion**
+The Pizza Sales Analysis Dashboard provides valuable insights into customer preferences, sales trends, and product performance. By leveraging these insights, the business can optimize its menu, improve marketing strategies, and enhance overall sales performance. The interactive nature of the dashboard allows for continuous monitoring and data-driven decision-making.
+
 ### Setup and Installation
 To use this dashboard:
 1. Download the `.pbix` file from the repository.
