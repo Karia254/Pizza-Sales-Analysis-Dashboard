@@ -84,10 +84,5 @@ To use this dashboard:
 3. Ensure you have the necessary data sources connected or update them as needed.
 4. Explore the dashboard and interact with the visualizations.
 
-### Contributing
-If you would like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
 
 
