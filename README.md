@@ -48,27 +48,23 @@ Here are some screenshots of the Power BI dashboard:
 ## **Key Insights**
 Here are some actionable insights derived from the pizza sales data:
 
-1. **Peak Order Times**:
-   - **Insight**: Orders peak during lunch (12 PM - 2 PM) and dinner hours (6 PM - 8 PM).
-   - **Actionable Insight**: Focus marketing efforts and promotions during these peak hours to maximize sales.
-
-2. **Popular Pizza Categories**:
+1. **Popular Pizza Categories**:
    - **Insight**: The **Classic** and **Veggie** categories contribute the highest percentage of sales.
    - **Actionable Insight**: Highlight these categories in promotions and ensure sufficient inventory to meet demand.
 
-3. **Preferred Pizza Sizes**:
+2. **Preferred Pizza Sizes**:
    - **Insight**: Medium and Large pizzas account for the majority of sales.
    - **Actionable Insight**: Offer bundle deals or discounts on these sizes to drive higher revenue.
 
-4. **Top 5 Best-Selling Pizzas**:
+3. **Top 5 Best-Selling Pizzas**:
    - **Insight**: Specific pizzas like **Margherita** and **Pepperoni** consistently rank as top sellers.
    - **Actionable Insight**: Use these pizzas as anchor products in combo deals or limited-time offers.
 
-5. **Bottom 5 Worst-Selling Pizzas**:
+4. **Bottom 5 Worst-Selling Pizzas**:
    - **Insight**: Certain pizzas, such as **BBQ Chicken** and **Hawaiian**, have low sales.
    - **Actionable Insight**: Consider revising recipes, offering discounts, or removing underperforming items from the menu.
 
-6. **Average Pizzas Per Order**:
+5. **Average Pizzas Per Order**:
    - **Insight**: The average order includes 2-3 pizzas.
    - **Actionable Insight**: Introduce family meal deals or bulk discounts to encourage larger orders.
 
